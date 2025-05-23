@@ -1,0 +1,1750 @@
+[2025-05-22 20:43:09]	[done]
+	build successfully !
+
+[2025-05-23 09:18:14]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+
+[2025-05-23 09:18:15]	[done]
+	build successfully !
+
+[2025-05-23 09:31:55]	[info] incremental build: 37 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 09:32:01]	[done]
+	build successfully !
+
+[2025-05-23 10:23:37]	[info] incremental build: 83 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\acd.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:23:43]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netdb.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/include -Ilibraries/LwIP/include/compat -Ilibraries/LwIP/include/netif -Ilibraries/LwIP/include/lwip/apps -Ilibraries/LwIP/include/lwip/priv -Ilibraries/LwIP/include/lwip/prot -IUSER/sys/inc -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\api\netdb.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\api\netdb.d .\libraries\LwIP\api\netdb.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\altcp_alloc.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\def.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\netbuf.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\altcp.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\tcpip.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\sockets.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\api_msg.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\netifapi.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\err.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\altcp_tcp.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\netdb.c: 0 warnings, 1 error
+
+[2025-05-23 10:26:23]	[info] incremental build: 83 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\acd.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:26:29]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\sockets.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/include -Ilibraries/LwIP/include/compat -Ilibraries/LwIP/include/netif -Ilibraries/LwIP/include/lwip/apps -Ilibraries/LwIP/include/lwip/priv -Ilibraries/LwIP/include/lwip/prot -IUSER/sys/inc -IUSER/arch -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\api\sockets.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\api\sockets.d .\libraries\LwIP\api\sockets.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\tcpip.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\err.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\altcp_alloc.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\def.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\altcp_tcp.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\api_msg.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\netdb.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\netifapi.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\core\altcp.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\netbuf.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/arch.h", line 48: Error:  #5: cannot open source input file "arch/cc.h": No such file or directory
+  #include "arch/cc.h"
+                      ^
+.\libraries\LwIP\api\sockets.c: 0 warnings, 1 error
+
+[2025-05-23 10:27:07]	[info] incremental build: 83 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\acd.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:27:13]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netifapi.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/include -Ilibraries/LwIP/include/compat -Ilibraries/LwIP/include/netif -Ilibraries/LwIP/include/lwip/apps -Ilibraries/LwIP/include/lwip/priv -Ilibraries/LwIP/include/lwip/prot -IUSER/sys/inc -IUSER -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\api\netifapi.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\api\netifapi.d .\libraries\LwIP\api\netifapi.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\netbuf.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\err.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\netdb.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\api_msg.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\api\netifapi.c: 0 warnings, 1 error
+
+[2025-05-23 10:27:38]	[info] incremental build: 83 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\acd.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:27:45]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\api\api_lib.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/include -Ilibraries/LwIP/include/compat -Ilibraries/LwIP/include/netif -Ilibraries/LwIP/include/lwip/apps -Ilibraries/LwIP/include/lwip/priv -Ilibraries/LwIP/include/lwip/prot -IUSER/sys/inc -IUSER -IUSER/arch -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\api\api_lib.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\api\api_lib.d .\libraries\LwIP\api\api_lib.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\api_msg.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/prot/ip4.h", line 50: Error:  #5: cannot open source input file "arch/bpstruct.h": No such file or directory
+  #  include "arch/bpstruct.h"
+                              ^
+.\libraries\LwIP\core\altcp.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/prot/ip4.h", line 50: Error:  #5: cannot open source input file "arch/bpstruct.h": No such file or directory
+  #  include "arch/bpstruct.h"
+                              ^
+.\libraries\LwIP\api\netifapi.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/prot/ip4.h", line 50: Error:  #5: cannot open source input file "arch/bpstruct.h": No such file or directory
+  #  include "arch/bpstruct.h"
+                              ^
+.\libraries\LwIP\core\altcp_tcp.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\netdb.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\err.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\sockets.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/include/lwip/sys.h", line 95: Error:  #5: cannot open source input file "arch/sys_arch.h": No such file or directory
+  #include "arch/sys_arch.h"
+                            ^
+.\libraries\LwIP\api\tcpip.c: 0 warnings, 1 error
+
+[2025-05-23 10:49:44]	[info] incremental build: 82 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:49:50]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netdb.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/src -IUSER/sys/inc -IUSER -Ilibraries/LwIP/arch -Ilibraries/LwIP -Ilibraries/LwIP/src/include -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\src\api\netdb.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\src\api\netdb.d .\libraries\LwIP\src\api\netdb.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\netifapi.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\netbuf.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\err.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\api_msg.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\sockets.c: 0 warnings, 1 error
+"libraries/LwIP/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\LwIP\src\api\netdb.c: 0 warnings, 1 error
+
+[2025-05-23 10:51:23]	[info] incremental build: 47 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:51:25]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\err.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/src -IUSER/sys/inc -IUSER -Ilibraries/LwIP/arch -Ilibraries/LwIP -Ilibraries/LwIP/src/include -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\src\api\err.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\src\api\err.d .\libraries\LwIP\src\api\err.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\netbuf.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\init.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\altcp_alloc.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\altcp_tcp.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\tcpip.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\sockets.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\netifapi.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\netdb.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\altcp.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\api_msg.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\def.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\inet_chksum.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\core\dns.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\err.c: 0 warnings, 1 error
+
+[2025-05-23 10:56:03]	[info] incremental build: 82 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:56:09]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\LwIP\src\api\api_msg.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -Ilibraries/LwIP/src -IUSER/sys/inc -IUSER -Ilibraries/LwIP/arch -Ilibraries/LwIP -Ilibraries/LwIP/src/include -Ilibraries/LwIP/src/include/lwip -Ilibraries/LwIP/src/include/netif -Ilibraries/LwIP/src/include/compat -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\LwIP\src\api\api_msg.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\LwIP\src\api\api_msg.d .\libraries\LwIP\src\api\api_msg.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\tcpip.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\api_lib.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\err.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\if_api.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\netdb.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\netbuf.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\netifapi.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\sockets.c: 0 warnings, 1 error
+"libraries/LwIP/arch/cc.h", line 51: Error:  #5: cannot open source input file "sys/time.h": No such file or directory
+  #include <sys/time.h>
+                       ^
+.\libraries\LwIP\src\api\api_msg.c: 0 warnings, 1 error
+
+[2025-05-23 10:59:47]	[info] incremental build: 37 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 10:59:53]	[done]
+	build successfully !
+
+[2025-05-23 11:09:58]	[info] incremental build: 82 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 11:10:04]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -IUSER/sys/inc -IUSER -Ilibraries/lwip-2.1.2/src/include -Ilibraries/lwip-2.1.2/src/core/ipv4 -Ilibraries/lwip-2.1.2/src/include/netif -Ilibraries/lwip-2.1.2/src/include/compat -Ilibraries/lwip-2.1.2/port/GD32F4xx -Ilibraries/lwip-2.1.2/port/GD32F4xx/Basic -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\lwip-2.1.2\src\api\netifapi.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\lwip-2.1.2\src\api\netifapi.d .\libraries\lwip-2.1.2\src\api\netifapi.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\api_lib.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\if_api.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\netdb.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\netbuf.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\api_msg.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\err.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\sockets.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\netifapi.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\tcpip.c: 0 warnings, 1 error
+
+[2025-05-23 11:10:40]	[info] incremental build: 82 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 11:10:46]	compilation failed at : "e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -IUSER/sys/inc -IUSER -Ilibraries/lwip-2.1.2/src/include -Ilibraries/lwip-2.1.2/src/core/ipv4 -Ilibraries/lwip-2.1.2/src/include/netif -Ilibraries/lwip-2.1.2/src/include/compat -Ilibraries/lwip-2.1.2/port/GD32F4xx -Ilibraries/lwip-2.1.2/port/GD32F4xx/Basic -Ilibraries/lwip-2.1.2/port/GD32F4xx/arch -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\libraries\lwip-2.1.2\src\api\tcpip.o --no_depend_system_headers --depend .\build\debug\.obj\libraries\lwip-2.1.2\src\api\tcpip.d .\libraries\lwip-2.1.2\src\api\tcpip.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\api_msg.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\netdb.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\err.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\netifapi.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\if_api.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\netbuf.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\sockets.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\api_lib.c: 0 warnings, 1 error
+"libraries/lwip-2.1.2/src/include/lwip/opt.h", line 51: Error:  #5: cannot open source input file "lwipopts.h": No such file or directory
+  #include "lwipopts.h"
+                       ^
+.\libraries\lwip-2.1.2\src\api\tcpip.c: 0 warnings, 1 error
+
+[2025-05-23 11:13:11]	[info] incremental build: 82 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_lib.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_msg.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\err.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\if_api.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\sockets.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_alloc.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\def.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\dns.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\inet_chksum.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\init.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\autoip.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\dhcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\etharp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\icmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\igmp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_addr.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_frag.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\mem.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\memp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\netif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\pbuf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\raw.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\stats.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\sys.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_in.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_out.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\timeouts.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\udp.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif_fdb.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\ethernet.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_ble.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_common.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\slipif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\zepif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 11:13:20]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol sys_now (referred from timeouts.o).
+Error: L6218E: Undefined symbol sio_open (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_send (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_tryread (referred from slipif.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 4 error messages.
+
+
+[2025-05-23 11:22:18]	[info] incremental build: 86 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': source file has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\gd32f4xx_enet_eval.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\hello_gigadevice.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\netconf.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\port\GD32F4xx\Basic\ethernetif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_lib.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_msg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\err.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\if_api.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netbuf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netdb.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\sockets.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_alloc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_tcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\def.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\dns.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\inet_chksum.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\init.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\autoip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\dhcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\etharp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\icmp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\igmp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_addr.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_frag.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\mem.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\memp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\netif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\pbuf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\raw.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\stats.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\sys.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_in.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_out.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\timeouts.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\udp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif_fdb.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\ethernet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_ble.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_common.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\slipif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\zepif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 11:22:20]	compilation failed at : "e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -IUSER/sys/inc -IUSER -Ilibraries/lwip-2.1.2/src/include -Ilibraries/lwip-2.1.2/src/core/ipv4 -Ilibraries/lwip-2.1.2/src/include/netif -Ilibraries/lwip-2.1.2/src/include/compat -Ilibraries/lwip-2.1.2/port/GD32F4xx -Ilibraries/lwip-2.1.2/port/GD32F4xx/Basic -Ilibraries/lwip-2.1.2/port/GD32F4xx/arch -IMDK_ARM/inc -IUSER/bsp/enet -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\MDK_ARM\main.o --no_depend_system_headers --depend .\build\debug\.obj\MDK_ARM\main.d .\MDK_ARM\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\USER\bsp\enet\gd32f4xx_enet_eval.h", line 38: Error:  #5: cannot open source input file "netif.h": No such file or directory
+  #include "netif.h"
+                    ^
+.\USER\bsp\enet\gd32f4xx_enet_eval.c: 0 warnings, 1 error
+".\MDK_ARM\main.c", line 6: Error:  #5: cannot open source input file "gd32f450i_eval.h": No such file or directory
+  #include "gd32f450i_eval.h"
+                             ^
+.\MDK_ARM\main.c: 0 warnings, 1 error
+
+[2025-05-23 11:22:49]	[info] incremental build: 72 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\gd32f4xx_enet_eval.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\port\GD32F4xx\Basic\ethernetif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_lib.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_msg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\err.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\if_api.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netbuf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netdb.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\sockets.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_alloc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_tcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\def.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\dns.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\inet_chksum.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\init.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\autoip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\dhcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\etharp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\icmp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\igmp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_addr.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_frag.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\mem.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\memp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\netif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\pbuf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\raw.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\stats.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\sys.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_in.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_out.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\timeouts.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\udp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif_fdb.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\ethernet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_ble.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_common.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\slipif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\zepif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 11:22:51]	compilation failed at : "e:\personal_project\GD32F4_Lwip\USER\bsp\enet\gd32f4xx_enet_eval.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -IUSER/sys/inc -IUSER -Ilibraries/lwip-2.1.2/src/include -Ilibraries/lwip-2.1.2/src/core/ipv4 -Ilibraries/lwip-2.1.2/src/include/netif -Ilibraries/lwip-2.1.2/src/include/compat -Ilibraries/lwip-2.1.2/port/GD32F4xx -Ilibraries/lwip-2.1.2/port/GD32F4xx/Basic -Ilibraries/lwip-2.1.2/port/GD32F4xx/arch -IMDK_ARM/inc -IUSER/bsp/enet -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\USER\bsp\enet\gd32f4xx_enet_eval.o --no_depend_system_headers --depend .\build\debug\.obj\USER\bsp\enet\gd32f4xx_enet_eval.d .\USER\bsp\enet\gd32f4xx_enet_eval.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\USER\bsp\enet\gd32f4xx_enet_eval.h", line 38: Error:  #5: cannot open source input file "netif.h": No such file or directory
+  #include "netif.h"
+                    ^
+.\USER\bsp\enet\gd32f4xx_enet_eval.c: 0 warnings, 1 error
+
+[2025-05-23 11:24:16]	[info] incremental build: 86 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_uart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\gd32f4xx_enet_eval.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\hello_gigadevice.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\netconf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_adc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_can.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_crc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ctc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dac.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dbg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dci.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_dma.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_enet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_exti.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fmc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_fwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_gpio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_i2c.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_ipa.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_iref.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_misc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_pmu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rcu.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_rtc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_sdio.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_spi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_syscfg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_timer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_tli.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_trng.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_usart.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\GD32F4xx_standard_peripheral\Source\gd32f4xx_wwdgt.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\port\GD32F4xx\Basic\ethernetif.c': object (.o) file not exist
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_lib.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\api_msg.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\err.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\if_api.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netbuf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netdb.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\netifapi.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\sockets.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\api\tcpip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_alloc.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\altcp_tcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\def.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\dns.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\inet_chksum.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\init.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\autoip.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\dhcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\etharp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\icmp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\igmp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_addr.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\ipv4\ip4_frag.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\mem.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\memp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\netif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\pbuf.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\raw.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\stats.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\sys.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_in.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\tcp_out.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\timeouts.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\core\udp.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\bridgeif_fdb.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\ethernet.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_ble.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\lowpan6_common.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\slipif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\src\netif\zepif.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\ringbuffer\ringbuffer.c': compiler options has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': compiler options has been changed.
+
+[2025-05-23 11:24:25]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol g_localtime (referred from netconf.o).
+Error: L6218E: Undefined symbol lwip_netif_status_callback (referred from netconf.o).
+Error: L6218E: Undefined symbol sio_open (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_send (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_tryread (referred from slipif.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 5 error messages.
+
+
+[2025-05-23 11:25:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+
+[2025-05-23 11:25:59]	compilation failed at : "e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IMDK_ARM -Ilibraries/GD32F4xx_standard_peripheral/Include -Ilibraries/CMSIS/GD/GD32F4xx -Ilibraries/CMSIS/GD/GD32F4xx/Include -Imodule/soft_timer -Imodule/ringbuffer -IUSER/bsp/inc -I.cmsis/include -IMDK_ARM/RTE/_debug -IUSER/sys/inc -IUSER -Ilibraries/lwip-2.1.2/src/include -Ilibraries/lwip-2.1.2/src/core/ipv4 -Ilibraries/lwip-2.1.2/src/include/netif -Ilibraries/lwip-2.1.2/src/include/compat -Ilibraries/lwip-2.1.2/port/GD32F4xx -Ilibraries/lwip-2.1.2/port/GD32F4xx/Basic -Ilibraries/lwip-2.1.2/port/GD32F4xx/arch -IMDK_ARM/inc -IUSER/bsp/enet -Ilibraries/lwip-2.1.2/src/include/lwip -DUSE_STDPERIPH_DRIVER -DGD32F407 -D__TARGET_FPU_VFP --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\debug\.obj\MDK_ARM\main.o --no_depend_system_headers --depend .\build\debug\.obj\MDK_ARM\main.d .\MDK_ARM\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MDK_ARM\main.c", line 18: Warning:  #223-D: function "enet_system_setup" declared implicitly
+      enet_system_setup();
+      ^
+".\MDK_ARM\main.c", line 42: Error:  #20: identifier "g_localtime" is undefined
+          lwip_periodic_handle(g_localtime);
+                               ^
+.\MDK_ARM\main.c: 1 warning, 1 error
+
+[2025-05-23 11:27:28]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': source file has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+
+[2025-05-23 11:27:29]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol g_localtime (referred from netconf.o).
+Error: L6218E: Undefined symbol sio_open (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_send (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_tryread (referred from slipif.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 4 error messages.
+
+
+[2025-05-23 11:28:39]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\netconf.c': source file has been changed.
+
+[2025-05-23 11:28:39]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol sio_open (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_send (referred from slipif.o).
+Error: L6218E: Undefined symbol sio_tryread (referred from slipif.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 3 error messages.
+
+
+[2025-05-23 11:32:12]	[done]
+	build successfully !
+
+[2025-05-23 11:52:38]	[done]
+	build successfully !
+
+[2025-05-23 13:13:40]	[info] incremental build: 7 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\gd32f4xx_it.c': dependence 'e:\personal_project\GD32F4_Lwip\MDK_ARM\inc\main.h' has been changed.
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': dependence 'e:\personal_project\GD32F4_Lwip\MDK_ARM\inc\main.h' has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\bsp_led.c': dependence 'e:\personal_project\GD32F4_Lwip\MDK_ARM\inc\main.h' has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\gd32f4xx_enet_eval.c': dependence 'e:\personal_project\GD32F4_Lwip\MDK_ARM\inc\main.h' has been changed.
+'e:\personal_project\GD32F4_Lwip\USER\bsp\enet\netconf.c': source file has been changed.
+'e:\personal_project\GD32F4_Lwip\libraries\lwip-2.1.2\port\GD32F4xx\Basic\ethernetif.c': dependence 'e:\personal_project\GD32F4_Lwip\MDK_ARM\inc\main.h' has been changed.
+'e:\personal_project\GD32F4_Lwip\module\soft_timer\soft_timer.c': dependence 'e:\personal_project\GD32F4_Lwip\MDK_ARM\inc\main.h' has been changed.
+
+[2025-05-23 13:13:43]	[done]
+	build successfully !
+
+[2025-05-23 13:14:51]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'e:\personal_project\GD32F4_Lwip\MDK_ARM\main.c': source file has been changed.
+
+[2025-05-23 13:14:52]	[done]
+	build successfully !
+

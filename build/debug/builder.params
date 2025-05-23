@@ -1,16 +1,17 @@
 {
     "name": "project",
     "target": "debug",
-    "toolchain": "AC6",
-    "toolchainLocation": "C:\\Keil_v5\\ARM\\ARMCLANG",
-    "toolchainCfgFile": "c:\\Users\\crs\\.vscode\\extensions\\cl.eide-3.21.1\\res\\data\\models\\win32/arm.v6.model.json",
+    "toolchain": "AC5",
+    "toolchainLocation": "C:\\Keil_v5\\ARM\\ARMCC",
+    "toolchainCfgFile": "c:\\Users\\crs\\.vscode\\extensions\\cl.eide-3.21.1\\res\\data\\models\\win32/arm.v5.model.json",
     "buildMode": "fast|multhread",
     "showRepathOnLog": true,
     "threadNum": 16,
-    "rootDir": "e:\\personal_project\\GD32_Lwip",
+    "rootDir": "e:\\personal_project\\GD32F4_Lwip",
     "dumpPath": "build\\debug",
     "outDir": "build\\debug",
     "incDirs": [
+        ".",
         "MDK_ARM",
         "libraries/GD32F4xx_standard_peripheral/Include",
         "libraries/CMSIS/GD/GD32F4xx",
@@ -19,7 +20,19 @@
         "module/ringbuffer",
         "USER/bsp/inc",
         ".cmsis/include",
-        "MDK_ARM/RTE/_debug"
+        "MDK_ARM/RTE/_debug",
+        "USER/sys/inc",
+        "USER",
+        "libraries/lwip-2.1.2/src/include",
+        "libraries/lwip-2.1.2/src/core/ipv4",
+        "libraries/lwip-2.1.2/src/include/netif",
+        "libraries/lwip-2.1.2/src/include/compat",
+        "libraries/lwip-2.1.2/port/GD32F4xx",
+        "libraries/lwip-2.1.2/port/GD32F4xx/Basic",
+        "libraries/lwip-2.1.2/port/GD32F4xx/arch",
+        "MDK_ARM/inc",
+        "USER/bsp/enet",
+        "libraries/lwip-2.1.2/src/include/lwip"
     ],
     "libDirs": [],
     "defines": [
@@ -32,6 +45,9 @@
         "MDK_ARM/main.c",
         "USER/bsp/bsp_led.c",
         "USER/bsp/bsp_uart.c",
+        "USER/bsp/enet/gd32f4xx_enet_eval.c",
+        "USER/bsp/enet/hello_gigadevice.c",
+        "USER/bsp/enet/netconf.c",
         "libraries/CMSIS/GD/GD32F4xx/Source/ARM/startup_gd32f407_427.s",
         "libraries/CMSIS/GD/GD32F4xx/Source/system_gd32f4xx.c",
         "libraries/GD32F4xx_standard_peripheral/Source/gd32f4xx_adc.c",
@@ -63,29 +79,58 @@
         "libraries/GD32F4xx_standard_peripheral/Source/gd32f4xx_trng.c",
         "libraries/GD32F4xx_standard_peripheral/Source/gd32f4xx_usart.c",
         "libraries/GD32F4xx_standard_peripheral/Source/gd32f4xx_wwdgt.c",
+        "libraries/lwip-2.1.2/port/GD32F4xx/Basic/ethernetif.c",
+        "libraries/lwip-2.1.2/src/api/api_lib.c",
+        "libraries/lwip-2.1.2/src/api/api_msg.c",
+        "libraries/lwip-2.1.2/src/api/err.c",
+        "libraries/lwip-2.1.2/src/api/if_api.c",
+        "libraries/lwip-2.1.2/src/api/netbuf.c",
+        "libraries/lwip-2.1.2/src/api/netdb.c",
+        "libraries/lwip-2.1.2/src/api/netifapi.c",
+        "libraries/lwip-2.1.2/src/api/sockets.c",
+        "libraries/lwip-2.1.2/src/api/tcpip.c",
+        "libraries/lwip-2.1.2/src/core/altcp.c",
+        "libraries/lwip-2.1.2/src/core/altcp_alloc.c",
+        "libraries/lwip-2.1.2/src/core/altcp_tcp.c",
+        "libraries/lwip-2.1.2/src/core/def.c",
+        "libraries/lwip-2.1.2/src/core/dns.c",
+        "libraries/lwip-2.1.2/src/core/inet_chksum.c",
+        "libraries/lwip-2.1.2/src/core/init.c",
+        "libraries/lwip-2.1.2/src/core/ip.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/autoip.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/dhcp.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/etharp.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/icmp.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/igmp.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/ip4.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/ip4_addr.c",
+        "libraries/lwip-2.1.2/src/core/ipv4/ip4_frag.c",
+        "libraries/lwip-2.1.2/src/core/mem.c",
+        "libraries/lwip-2.1.2/src/core/memp.c",
+        "libraries/lwip-2.1.2/src/core/netif.c",
+        "libraries/lwip-2.1.2/src/core/pbuf.c",
+        "libraries/lwip-2.1.2/src/core/raw.c",
+        "libraries/lwip-2.1.2/src/core/stats.c",
+        "libraries/lwip-2.1.2/src/core/sys.c",
+        "libraries/lwip-2.1.2/src/core/tcp.c",
+        "libraries/lwip-2.1.2/src/core/tcp_in.c",
+        "libraries/lwip-2.1.2/src/core/tcp_out.c",
+        "libraries/lwip-2.1.2/src/core/timeouts.c",
+        "libraries/lwip-2.1.2/src/core/udp.c",
+        "libraries/lwip-2.1.2/src/netif/bridgeif.c",
+        "libraries/lwip-2.1.2/src/netif/bridgeif_fdb.c",
+        "libraries/lwip-2.1.2/src/netif/ethernet.c",
         "module/ringbuffer/ringbuffer.c",
         "module/soft_timer/soft_timer.c"
     ],
     "sourceParams": {},
     "options": {
-        "version": 3,
+        "version": 4,
         "beforeBuildTasks": [],
         "afterBuildTasks": [
             {
-                "name": "[Copy linker output for Keil User Commands]",
-                "command": "cd .\\MDK_ARM && mkdir ${KEIL_OUTPUT_DIR} & copy \"${OutDir}\\${ProjectName}.axf\" \"${KEIL_OUTPUT_DIR}\\${KEIL_OUTPUT_NAME}.axf\"",
-                "disable": false,
-                "abortAfterFailed": true
-            },
-            {
-                "name": "Keil5_disp_size_bar_v0.3.exe",
-                "command": "cd .\\MDK_ARM && Keil5_disp_size_bar_v0.3.exe",
-                "disable": false,
-                "abortAfterFailed": true
-            },
-            {
                 "name": "axf to elf",
-                "command": "axf2elf -d \"C:\\Keil_v5\\ARM\\ARMCLANG\" -i \"${outDir}\\project.axf\" -o \"${outDir}\\project.elf\" > \"${outDir}\\axf2elf.log\""
+                "command": "axf2elf -d \"C:\\Keil_v5\\ARM\\ARMCC\" -i \"${outDir}\\project.axf\" -o \"${outDir}\\project.elf\" > \"${outDir}\\axf2elf.log\""
             }
         ],
         "global": {
@@ -98,41 +143,33 @@
         },
         "c/cpp-compiler": {
             "optimization": "level-0",
-            "language-c": "c99",
-            "language-cpp": "c++11",
-            "link-time-optimization": false,
             "one-elf-section-per-function": true,
-            "short-enums#wchar": true,
-            "warnings": "ac5-like-warnings"
+            "c99-mode": true,
+            "C_FLAGS": "--diag_suppress=1 --diag_suppress=1295",
+            "CXX_FLAGS": "--diag_suppress=1 --diag_suppress=1295"
         },
-        "asm-compiler": {
-            "$use": "asm-auto"
-        },
+        "asm-compiler": {},
         "linker": {
             "output-format": "elf",
-            "misc-controls": "--diag_suppress=L6329",
-            "xo-base": "",
-            "ro-base": "0x08000000",
-            "rw-base": "0x20000000",
             "link-scatter": [
-                "\"e:/personal_project/GD32_Lwip/MDK_ARM/linker_scripts/link.sct\""
+                "\"e:/personal_project/GD32F4_Lwip/board/linker_scripts/link.sct\""
             ]
         }
     },
     "env": {
         "KEIL_OUTPUT_DIR": "Objects",
         "KEIL_OUTPUT_NAME": "output",
-        "workspaceFolder": "e:\\personal_project\\GD32_Lwip",
-        "workspaceFolderBasename": "GD32_Lwip",
-        "OutDir": "e:\\personal_project\\GD32_Lwip\\build\\debug",
+        "workspaceFolder": "e:\\personal_project\\GD32F4_Lwip",
+        "workspaceFolderBasename": "GD32F4_Lwip",
+        "OutDir": "e:\\personal_project\\GD32F4_Lwip\\build\\debug",
         "OutDirRoot": "build",
         "OutDirBase": "build\\debug",
         "ProjectName": "project",
         "ConfigName": "debug",
-        "ProjectRoot": "e:\\personal_project\\GD32_Lwip",
-        "ExecutableName": "e:\\personal_project\\GD32_Lwip\\build\\debug\\project",
-        "ChipPackDir": "",
-        "ChipName": "",
+        "ProjectRoot": "e:\\personal_project\\GD32F4_Lwip",
+        "ExecutableName": "e:\\personal_project\\GD32F4_Lwip\\build\\debug\\project",
+        "ChipPackDir": ".pack/GigaDevice/GD32F4xx_DFP.3.1.0",
+        "ChipName": "GD32F407VE",
         "SYS_Platform": "win32",
         "SYS_DirSep": "\\",
         "SYS_DirSeparator": "\\",
@@ -142,7 +179,7 @@
         "EIDE_BUILDER_DIR": "c:\\Users\\crs\\.vscode\\extensions\\cl.eide-3.21.1\\res\\tools\\win32\\unify_builder",
         "EIDE_BINARIES_VER": "12.0.1",
         "EIDE_MSYS": "C:\\Users\\crs\\.eide\\bin\\builder\\msys\\bin",
-        "ToolchainRoot": "C:\\Keil_v5\\ARM\\ARMCLANG"
+        "ToolchainRoot": "C:\\Keil_v5\\ARM\\ARMCC"
     },
     "sysPaths": []
 }

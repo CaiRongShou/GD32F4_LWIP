@@ -128,8 +128,31 @@ void SDIO_IRQHandler(void)
 {
     
 }
+/*!
+    \brief      this function handles ENET interrupt request
+    \param[in]  none
+    \param[out] none
+    \retval     none
+*/
+extern void lwip_pkt_handle(void);
+void ENET_IRQHandler(void)
+{
+    uint32_t reval;
+
+    /* clear the enet DMA Rx interrupt pending bits */
+    enet_interrupt_flag_clear(ENET_DMA_INT_FLAG_RS_CLR);
+    enet_interrupt_flag_clear(ENET_DMA_INT_FLAG_NI_CLR);
+    /* handles all the received frames */
+    do {
+        reval = enet_rxframe_size_get();
+
+        if(reval > 1) {
+            lwip_pkt_handle();
+        }
+    } while(reval != 0);
 
 
+}
 /*!
     \brief      configure systick
     \param[in]  none
@@ -156,7 +179,7 @@ void systick_config(void)
 */
 void SysTick_Handler(void)
 {
-	g_system_tick ++;
+	g_system_tick += 10;
     soft_timer_tick();
 }
 
